@@ -1,0 +1,15 @@
+.accordion-border {
+    border: 1px solid #795C90;
+    background-color: #795c90;
+}
+.accordion-border h2 {
+    color: #fff;
+}
+.accordion-border.btn {
+    text-align: left;
+}
+@media screen and (max-width: 576px) {
+    .accordion-border h2 {
+        max-width: 292px;
+    }
+}
