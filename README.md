@@ -6,7 +6,7 @@ Bootstrap 4
 ## Installation
 Run:
 ```
-composer require connect232/faqs
+composer require connect232/cakephp4-faqs
 ```
 ## Usage
 Run :
